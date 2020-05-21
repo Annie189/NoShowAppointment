@@ -2,11 +2,14 @@
 I.	INTRODUCTION
 The project would like to investigate the data about No-show appointment. This dataset is about more than 100,000 medical appointments in Brazil and would like to find out the insightful information about the presence or absence for a scheduled appointment.
 This dataset was extracted from the link: https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf
+
 The description of this dataset was also explained the above link.
 The investigator would like to explore the key information of this datasets and answer some questions as below:
 •	What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
 •	Which gender has higher percentage of appointment show-up?
 •	What factors are main reasons for not showing up for a schedule appointment?
+
+
 II.	DATA WRANGLING AND CLEANING
 To investigate this dataset, the analyst would like to use Python and Jupyter Notebook for cleaning data and exploring information.
 •	Pandas, numpy and matplotlib were imported.
